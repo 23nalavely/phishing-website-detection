@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning
+# Laporan Proyek Machine Learning - Nurul Azmi Muharom
 
 ## Deteksi Website Phishing Menggunakan Machine Learning Berbasis Feature URL pada Dataset Kaggle
 
