@@ -289,7 +289,7 @@ File deployment yang digunakan:
 Deployment dilakukan menggunakan Hugging Face Spaces dengan Gradio.
 
 Link deployment:
-https://nurulazmiii98-phishing-website-detection.hf.space/?__theme=system&deep_link=CVX-OJb60b4
+https://huggingface.co/spaces/nurulazmiii98/deteksi_phishing
 
 Aplikasi menerima beberapa input fitur utama, yaitu:
 
